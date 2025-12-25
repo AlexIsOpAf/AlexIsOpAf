@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Go Enthusiast ⚙️ | Infrastructure Engineer | Blockchain Sweat</h3>
 
-<h4  align="center">🔭 I’m currently working on ProveIT </h4><br/>
+<h4 align="center">
+  🔭 I’m currently working on 
+  <a href="https://proveit.gg" target="_blank" rel="noopener noreferrer">ProveIT</a>
+</h4>
+
+<p align="center">
+  ProveIT is an esports platform built for people who care about real competition.
+  We run skill-based leagues and tournaments where performance matters, results are transparent,
+  and players earn their place by proving it in-game.
+  <br/>
+</p>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexIsOpAf&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
-
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -29,4 +39,3 @@
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"/>
 </p>
-
