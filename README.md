@@ -84,8 +84,10 @@ players earn their place by proving it in-game.
 Games are the thread through everything. I'm a top 200 FIFA player and a certified
 sweat: if there's a ladder, I'm climbing it. I built
 [dofusplanner.io](https://github.com/AlexIsOpAf/dofusplanner.io) so Dofus players could
-theorycraft builds before grinding for them, and now I'm building the esports platform I
-always wanted as a player. Recently I've been pulled into ARPGs, Diablo 4 (introduced by
+theorycraft builds before grinding for them; the team behind
+[dofuslab.io](https://dofuslab.io) invited me to contribute while they were building
+theirs, but I had too much in flight to take them up on it (maybe I will soon?). Now I'm
+building the esports platform I always wanted as a player. Recently I've been pulled into ARPGs, Diablo 4 (introduced by
 my awesome manager) and Path of Exile 2. One more game is a rounding error.
 
 ---
