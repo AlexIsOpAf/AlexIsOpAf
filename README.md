@@ -4,8 +4,8 @@
 
 Three things run through everything I do: **rigor**, **AI agents**, and **games**.
 I build backend services, the infrastructure they run on, and the agentic layer on top:
-orchestration, RAG pipelines, prompt caching, evals. I like software I can defend line
-by line, and competition that keeps score honestly.
+orchestration, RAG pipelines, prompt caching, evals. I like knowing how things work all
+the way down, and I don't play any games casually.
 
 My personal mission: *build things that hold up under scrutiny.*
 
@@ -81,11 +81,12 @@ players earn their place by proving it in-game.
 
 ## 🎮 A bit about me
 
-Games are the thread through everything. I built
+Games are the thread through everything. I'm a top 200 FIFA player and a certified
+sweat: if there's a ladder, I'm climbing it. I built
 [dofusplanner.io](https://github.com/AlexIsOpAf/dofusplanner.io) so Dofus players could
-theorycraft builds before grinding for them, recreated A* pathfinding in C++ just to feel
-how games actually navigate, and now I'm building the esports platform I always wanted as
-a player. One more game is a rounding error.
+theorycraft builds before grinding for them, and now I'm building the esports platform I
+always wanted as a player. Recently I've been pulled into ARPGs, Diablo 4 (introduced by
+my awesome manager) and Path of Exile 2. One more game is a rounding error.
 
 ---
 
