@@ -11,10 +11,16 @@ My personal mission: *build things that hold up under scrutiny.*
 
 ---
 
-## 🔭 What I'm building
+## 🔭 What I'm building in my free time
 
 **AI agents** — where my systems work and my AI work meet: orchestration, state, tool
-use, RAG, prompt caching, and evals. More landing here soon.
+use, RAG, prompt caching, and evals.
+
+**[Praktor](https://github.com/AlexIsOpAf/praktor)** — the first of those landing in
+public: a prototype of the platform an AI foundations team would run. Teams declare
+agents as config bundles — instructions, tool grants, data scopes — and a Kubernetes
+controller reconciles them into running agents, with enforcement in code at the tool
+boundary, immutable revisions, and prompt caching designed in from the start.
 
 **[ProveIT](https://proveit.gg)** — a skill-based esports platform built for people who
 care about real competition: leagues and tournaments where results are transparent and
